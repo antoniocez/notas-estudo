@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, rgb(0, 89, 255), rgb(108, 0, 129));
+    margin: 0;
+}
+
+main {
+    margin: 0 auto;
+    margin-top: 8vw;
+    margin-bottom: 8vw;
+    padding: 60px 20px;
+    width: 380px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    text-align: center;
+}
+
+main input {
+    border: none;
+  border-bottom: 2px solid #979494;
+  outline: none;
+  padding: 10px;
+  background: transparent;
+  width: 300px;
+}
+
+button {
+    color: white;
+    background: linear-gradient(135deg, rgb(0, 89, 255), rgb(108, 0, 129));
+    padding: 15px 30px;
+    font-size: 18px;
+    width: 350px;
+    height: 60px;
+    border: none;
+    cursor: pointer;
+}

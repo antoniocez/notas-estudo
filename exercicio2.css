@@ -1,0 +1,56 @@
+body {
+    font-family: Verdana, Tahoma, sans-serif;
+    background-color: rgb(22, 16, 16);
+}
+main {
+    text-align: left;
+    margin: 120px;
+    border-radius: 30px;
+
+}
+section {
+    background-color: rgb(0, 0, 0);
+    width: 750px;
+    height: 80px;
+    margin-bottom: 8vw;
+    padding: 90px 20px;
+    border-radius: 15px;
+}
+li {
+    color: white;
+}
+input {
+    width: 743px;
+    height: 30px;
+    background-color: rgb(22, 16, 16);
+    border-color: rgb(207, 207, 207);
+    border-radius: 5px;
+}
+b input {
+    width: 364px;
+ 
+}
+h1 {
+    color: rgb(255, 251, 217);
+}
+p {
+    color: rgb(196, 196, 196);
+    
+}
+img {
+    margin: 0px 15px;
+    background-color: transparent;
+    border-radius: 100%;
+}
+label {
+    color: rgb(190, 190, 190);
+}
+button {
+    width: 750px;
+    height: 50px;
+    color: black;
+    background-color: rgb(248, 182, 60);
+    font-weight: bold;
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 15px;
+}
