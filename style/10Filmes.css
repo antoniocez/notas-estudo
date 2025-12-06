@@ -1,0 +1,45 @@
+body {
+   background-color: rgb(182, 179, 0);
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   margin: 0;
+}
+header {
+    background-color: rgb(168, 142, 26);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 20px;
+}
+header a {
+text-decoration: none;
+    color: rgb(230, 230, 230);
+    background-color: rgb(206, 221, 0);
+    padding: 5px 20px;
+    border-radius: 3px;
+}
+header a:hover{
+     background-color: rgb(176, 179, 15);
+}
+h1 {
+/* margin-bottom:10px; } */
+    margin: 0 10px;
+/* Para referenciar Id é com # */}
+main {
+    padding: 16px;
+}
+section {
+background-color: rgb(235, 231, 0);
+border-radius: 16px;
+margin: 10px 0;
+padding: 16px;
+}
+ 
+section h3 {
+    border-bottom: 2px solid rgb(255, 255, 255);
+}
+#exemploid{
+    background-color: rgb(194, 197, 13)
+}
+/* Para referenciar clase é com. */
+.exemploclass {
+    background-color: rgb(164, 199, 7);
+}
